@@ -1,2 +1,2 @@
 # JS_animations
-Animações em JS que fiz 
+Animações em JS e componentes a serem reutilizados em outros projetos.
