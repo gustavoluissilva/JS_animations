@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <ul>
+      <button onclick="filtarServico('EMPRESAS')">Empresas</button>
+      <button onclick="filtarServico('ALVARA')">Alvará</button>
+      <button onclick="filtarServico('MEI')">MEI</button>
+      <button onclick="filtarServico('SANITARIO')">Alvará Sanitário</button>
+      <button onclick="filtarServico('AMBIENTAL')">Licença Ambiental</button>
+      <button onclick="filtarServico('CERTIDAO')">Certidões</button>
+      <button onclick="filtarServico('CURSOS')">
+        Cursos e Ferramentas de Gestão
+      </button>
+      <button onclick="filtarServico('MARCAS')">Marcas e Patentes</button>
+      <button onclick="filtarServico('LICITACOES')">Licitações</button>
+      <button onclick="filtarServico('PLANEJAMENTO')">
+        Planejamento Urbano
+      </button>
+      <button onclick="filtarServico('TODOS')">Todos</button>
+    </ul>
+    <div id="container-cards"></div>
+  </body>
+  <script src="/filtro.js"></script>
+</html>

@@ -1,0 +1,308 @@
+[
+  {
+    "categorias": ["TODOS", "EMPRESAS"],
+    "nome": "Consulta de Viabilidade JUCESC",
+    "href": "https://www.google.com",
+    "targetBlank": false
+  },
+  {
+    "categorias": ["TODOS", "EMPRESAS"],
+    "nome": "Acompanhamento Consulta de Viabilidade",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "EMPRESAS"],
+    "nome": "Acompanhamento Viabilidade Profissional Autônomo",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "EMPRESAS"],
+    "nome": "Cancelamento Pedido de Viabilidade",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "EMPRESAS"],
+    "nome": "Nota Fiscal de Serviço",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "EMPRESAS"],
+    "nome": "Livro Eletrônico",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "ALVARA"],
+    "nome": "Emissão Alvará",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "ALVARA"],
+    "nome": "Emissão Guia Pagamento Alvará",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "ALVARA"],
+    "nome": "Protocolo Online",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "ALVARA"],
+    "nome": "Solicitar / Consultar Atestado de Funcionamento do Bombeiro",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Abrir CNPJ - MEI",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Imprimir boleto contribuição mensal MEI (DAS) ",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Imprimir comprovante de MEI (CCMEI)",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Declaração anual - MEI (DASN)",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Imprimir cartão CNPJ - MEI",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Solicitar Inscrição Estadual – MEI",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Consultar Inscrição Estadual – MEI",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Nota Fiscal de Serviço - MEI ",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Nota Fiscal de Produto - MEI ",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Lista de Atividades Permitidas para MEI",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Título de Eleitor",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Alteração de dados cadastrais no CPF",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Portal E-CAC",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Parcelamento Simples Nacional - MEI",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Parcelamento PGFN - MEI",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MEI"],
+    "nome": "Cadastro Domicílio Eletrônico Trabalhista (DET) - MEI",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "SANITARIO"],
+    "nome": "Protocolo on-line Alvará Sanitário",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "SANITARIO"],
+    "nome": "Documentos Necessários Alvará Sanitário",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "SANITARIO"],
+    "nome": "Pré Requisitos Alvará Sanitário",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "AMBIENTAL"],
+    "nome": "Protocolo Certidão Ambiental",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "AMBIENTAL"],
+    "nome": "Protocolo Cadastro Ambiental",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "AMBIENTAL"],
+    "nome": "Protocolo Autorização Ambiental",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "CERTIDAO"],
+    "nome": "Certidão de Recuperação Judicial, Extrajudicial, e Falência",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "CERTIDAO"],
+    "nome": "Certidão Negativa Municipal",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "CERTIDAO"],
+    "nome": "Certidão Negativa Estadual",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "CERTIDAO"],
+    "nome": "Certidão Negativa Federal",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "CERTIDAO"],
+    "nome": "Certidão de FGTS",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "CURSOS"],
+    "nome": "Ferramenta plano de negócios",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "CURSOS"],
+    "nome": "Ferramenta canvas",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "CURSOS"],
+    "nome": "Curso Mei na Prática",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MARCAS"],
+    "nome": "Cartilha INPI marcas",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MARCAS"],
+    "nome": "Cartilha INPI patentes",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "MARCAS"],
+    "nome": "Cartilha INPI desenho industrial",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "LICITACOES"],
+    "nome": "Licitações em aberto",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "LICITACOES"],
+    "nome": "Como ser fornecedor do município",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "LICITACOES"],
+    "nome": "Plano Anual de Compras",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "PLANEJAMENTO"],
+    "nome": "Consulta Prévia de Localização",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "PLANEJAMENTO"],
+    "nome": "Cartilha de Acessibilidade",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "PLANEJAMENTO"],
+    "nome": "Plano Diretor",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "PLANEJAMENTO"],
+    "nome": "Protocolar regularização de imóvel",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  },
+  {
+    "categorias": ["TODOS", "PLANEJAMENTO"],
+    "nome": "Protocolar consulta de viabilidade de instalação / construção",
+    "href": "https://www.google.com",
+    "targetBlank": true
+  }
+]
